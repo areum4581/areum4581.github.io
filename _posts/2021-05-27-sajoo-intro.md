@@ -2,7 +2,7 @@
 layout: post
 permalink: /sajoo/
 title: '사주명리학, 왜 배워야 하는가?'
-date: 2021-05-27 15:00:00 +09:00
+date: 2021-05-27 14:30:00 +09:00
 feature: '/img/posts/01/intro-thumb.jpg'
 categories:
   - intro
