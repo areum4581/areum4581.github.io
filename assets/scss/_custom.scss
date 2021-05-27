@@ -5,7 +5,21 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'ELAND_Choice_B';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/ELAND_Choice_B.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 p {
   font-family: 'ELAND_Choice_M';
   text-align: justify;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'ELAND_Choice_B';
+  margin-bottom: 2;
+  color: #005666;
 }
