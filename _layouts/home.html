@@ -13,6 +13,9 @@ layout: default
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="page-heading">
+            <div class="image">
+              <img src="/img/main-icon.png">
+            </div>
             <h1>{{ site.title }}</h1>
             {% if site.tagline %}
             <span class="subheading">{{ site.tagline }}</span>
@@ -35,7 +38,7 @@ layout: default
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
             {% if post.feature %}
-              <img class="post-feature" src="{{ post.feature }}" alt="">
+            <img class="post-feature" src="{{ post.feature }}" alt="">
             {% endif %}
             <h2 class="post-title">{{ post.title }}</h2>
             {% if post.description %}
