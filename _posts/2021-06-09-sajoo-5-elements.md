@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /category/sajoo-intro/
+permalink: /category/sajoo-5-elements/
 title: '오행으로 알아보는 나의 성격과 환경'
 date: 2021-06-09 21:40:00 +09:00
 feature: '/img/posts/01/woods-land.jpg'
